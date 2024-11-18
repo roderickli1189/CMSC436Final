@@ -9,7 +9,7 @@
 
     <style name="TitleText">
         <item name="android:textSize">42sp</item>
-        <item name="android:letterSpacing">0.02</item>
+        <item name="android:letterSpacing">0.05</item>
         <item name="android:textStyle">bold</item>
     </style>
 </resources>
